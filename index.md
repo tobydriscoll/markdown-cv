@@ -307,6 +307,55 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+## Refereed/invited proceedings and posters
+`2018`
+R. J. Braun, L. Zhong, T. A. Driscoll, C. G. Begley, D. Antwi, P. E. King-Smith. Models for Tear Break Up Dynamics and Imaging. 7th European Conference on Computational Fluid Dynamics.
+
+`2016`
+Joseph Brosch, T. A. Driscoll, Richard Braun. Simulation of Thin Film Equations on an Eye-Shaped Domain with Moving Boundary. APS March Meeting Abstracts.
+
+Lan Zhong, C. F. Ketelaar, R. J. Braun, T. A. Driscoll, P. E. King-Smith, C. G. Begley. Mathematical Modeling of Glob-Driven Tear Film Breakup. Investigative Ophthalmology & Visual Science.
+
+`2015`
+L. Zhong, C. F. Ketelaar, R. J. Braun, T. A. Driscoll, P. E. King-Smith, and C. G. Begley. A Model Problem for Blob-Driven Tear Film Breakup (TBU). Bull. Amer. Physical Soc. 60: 68th Annual Meeting of the APS Division of Fluid Dynamics, Boston, 2015.
+    
+M. Stapf, R. J. Braun, C. G. Begley, T. A. Driscoll, and P. E. King-Smith. Modeling Tear Film Evaporation and Breakup with Duplex Films. Bull. Amer. Physical Soc. 60: 68th Annual Meeting of the APS Division of Fluid Dynamics Boston, 2015.
+    
+R. J. Braun, L. Li, W. Henshaw, T. A. Driscoll, and P. E. King-Smith. Solute Dynamics and Imaging in the Tear Film on an Eye-shaped Domain, Bull. Amer. Physical Soc. 60: 68th Annual Meeting of the APS Division of Fluid Dynamics, Boston, MA, 2015.
+    
+C. Ketelaar, L. Zhong, R. J. Braun, T. A. Driscoll, P. E. King-Smith, and C. G. Begley. Tear Film Dynamics Around a Rigid Model Blob, Bull. Amer. Physical Soc. 60: 68th Annual Meeting of the APS Division of Fluid Dynamics, Boston, 2015.
+
+`2014`   
+M. McCulloch, G. Schleiniger, L. Chen, S. Gidding, and T. A. Driscoll. Data driven mathematical modeling of the single ventricle anatomy and physiology. Highlighted Poster (refereed), NISBRE IDeA Conference, 2014. 
+
+`1998`
+L. N. Trefethen and T. A. Driscoll. Schwarz--Christoffel mapping in the computer era. Proceedings of the International Congress of Mathematicians, Vol. III (Berlin, 1998). *Doc. Math.*  1998, Extra Vol. III, 533--542 (electronic).
+
+`1997`
+G. Wojcik, B. Fornberg, R. Waag, J. Mould, T. A. Driscoll, and L. Nikodym. Pseudospectral methods for large-scale bioacoustic models. Proceedings of the 1997 IEEE Ultrasonics Symposium.
+
+## Software
+
+* L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). (Major Driscoll contributions noted for the releases below.)
+	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
+    * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
+	* 2009: Version 3.0 (with A. Birkisson): Automatic differentiation and solution for nonlinear operators
+	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP,eigenvalue, PDE)
+ * T. A. Driscoll. [http://www.math.udel.edu/~driscoll/software/SC/index.html](Schwarz--Christoffel Toolbox for MATLAB.)
+	* 2002: Module for solving Laplace's equation with piecewise constant boundary conditions.
+	* 2000: Object-oriented interface for polygons and maps.
+	* 1996: Inclusion of CRDT algorithm for elongated regions.
+	* 1994: Initial release.
+
+## Other works
+* T. A. Driscoll. Review of *Elements of Scientific Computing*, by Tveito, Langtangen, Nielsen, and Cai. *SIAM Review* 53, 807--808, 2011.
+* M. Hassner, D. V. Leykin, and T. A. Driscoll. An analytic model of MR/GMR head sensitivity function. IBM Research Report RJ 10167, 1999.
+* T. A. Driscoll. Review of *Computational Conformal Mapping*, by P. K. Kythe. *SIAM Review* 41 (1999), 832--834.
+* T. A. Driscoll. Uses of the Berenger PML in pseudospectral methods for Maxwell's equations. Proceedings of the 1997 IUTAM Symposium on Computational Methods for Unbounded Domains, T. L. Geers, ed.
+* T. A. Driscoll. *Domain Decomposition Methods for Conformal Mapping and Eigenvalue Problems.* Ph.D. thesis, Center for Applied Mathematics, Cornell University, 1996.
+* T. A. Driscoll and B. Land. Vibrations of isospectral drums. Computer animation video produced at the Cornell Theory Center, 1995.
+* T. A. Driscoll. Schwarz--Christoffel Toolbox user's guide. Cornell Computer Science Technical Report TR 94-1422, 1994.
+
 
 
 <!-- ### Footer
@@ -314,3 +363,5 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 Last updated: May 2013 -->
 
 
+
+## Presentations
