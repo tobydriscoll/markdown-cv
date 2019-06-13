@@ -1,44 +1,35 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV of Tobin A. Driscoll
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tobin A. Driscoll
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://tobydriscoll.net">My site</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Research interests
+* Numerical analysis & scientific computing
+* Applications of mathematics and computing to the life sciences and medicine
+* Mathematical software in MATLAB and Julia
 
 ## Education
+`1996`
+**Cornell University:** Ph.D. in Applied Mathematics
+* Dissertation: *Domain decomposition methods for conformal mapping and eigenvalue problems*
+* Advisor: Lloyd N. Trefethen
 
-`1654-1660`
-__The King's School, Grantham.__
+`1993`
+**Cornell University:**, M.S. in Applied Mathematics
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1991`
+**Pennsylvania State University**
+* B.S. in Mathematics with honors
+	* Honors thesis title: *Comparison of computational efficiency and sensitivity of several solution algorithms for the linear--quadratic optimal control problem*
+    * Advisor: John E. Dzielski
+* B.S. in Physics
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
