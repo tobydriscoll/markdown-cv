@@ -5,7 +5,7 @@ title: CV of Tobin A. Driscoll
 # Tobin A. Driscoll
 
 <div id="webaddress">
-<a href="https://tobydriscoll.net">My site</a>
+<a href="https://tobydriscoll.net">tobydriscoll.net</a>
 </div>
 
 
@@ -21,7 +21,7 @@ title: CV of Tobin A. Driscoll
 * Advisor: Lloyd N. Trefethen
 
 `1993`
-**Cornell University:**, M.S. in Applied Mathematics
+**Cornell University:** M.S. in Applied Mathematics
 
 `1991`
 **Pennsylvania State University**
@@ -139,7 +139,7 @@ T. A. Driscoll and R. J. Braun. *Fundamentals of Numerical Computation*, SIAM
 T. A. Driscoll, N. Hale, and L. N. Trefethen, eds. *Chebfun Guide*, 1st edition. Oxford, UK.
 
 `2009`
-T. A. Driscoll, * Learning MATLAB*, Society for Industrial and Applied Mathematics
+T. A. Driscoll, *Learning MATLAB*, Society for Industrial and Applied Mathematics
 
 `2002`
 T. A. Driscoll and L. N. Trefethen. *Schwarz–Christoffel Mapping*, Cambridge University Press
@@ -158,10 +158,10 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 `2018`
  T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. *J. Eng. Math.* 111 (1): 111–126.
 
-`2018`
+
  K. Aiton, T. A. Driscoll. An adaptive partition of unity method for Chebyshev polynomial interpolation. *SIAM J. Sci. Comput.* 40 (1): A251–A265.
 
-`2018`
+
  R. J. Braun, T. A. Driscoll, C. G. Begley, P. E. King-Smith, and J. I. Siddique. On tear film breakup (TBU): dynamics and imaging.* Math. Med. Biol.* 35 (2): 145–180.
 
 `2017`
@@ -170,16 +170,16 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 `2016`
  T. A. Driscoll, E. Süli, and A. Townsend, eds., New Directions in Numerical Computation. *Notices of the Amer. Math. Soc.* 63 (4): 398–400, 2016.
 
-`2016`
+
  L. Li, R. J. Braun, T. A. Driscoll, W. D. Henshaw, J. W. Banks, and P. E. King-Smith, Computed tear film and osmolarity dynamics on an eye-shaped domain. *Math. Med. Biol.* 33 (2): 123–157. DOI: [10.1093/imammb/dqv013](http:dx.doi.org/10.1093/imammb/dqv013).
 
-`2016`
+
  T. A. Driscoll and N. Hale, Rectangular spectral collocation. *IMA J. Num. Analy.* 36 (1): 108–132. DOI: [10.1093/imanum/dru062](http://dx.doi.org/10.1093/imanum/dru062).
 
-`2016`
+
  K. Maki, W. Henshaw, G. Barron, D. Chapp, R. J. Braun, T. A. Driscoll. A theoretical investigation of the influence of a blink on the tear film dynamics. *Invest. Ophthamology Visual Sci.* 57: 6173.
 
-`2016`
+
  L. Zhong, C. F. Ketelaar, R. J. Braun, T. A. Driscoll, P. E. King-Smith, C. G. Begley. Mathematical modeling of glob-driven tear film breakup. *Invest. Ophthamology Visual Sci.* 57: 6171.
 
 `2014`
@@ -187,7 +187,7 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 Heat transfer and tear film dynamics over multiple blink cycles.
 *Phys. Fluids* 26, 071901 (2014); DOI: [10.1063/1.4887341](http://dx.doi.org/10.1063/1.4887341)
 
-`2014`
+
  T. A. Driscoll and J. A. C. Weideman. Optimal domain splitting for interpolation by Chebyshev polynomials. *SIAM J. Numer. Anal.* 52, 1913–1927. DOI: [10.1137/130919428](http://dx.doi.org/10.1137/130919428).
 
 `2013`
@@ -197,13 +197,13 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 `2012`
  Q. Deng and T. A. Driscoll. A fast treecode for multiquadric interpolation with varying shape parameters. *SIAM J. Sci. Comput.* 34(2), A1126–A1140. DOI: [10.1137/110836225](http://dx.doi.org/10.1137/110836225)
 
-`2012`
+
  W. M. Reid, T. A. Driscoll, M. F. Doty. Forming delocalized intermediate states with realistic quantum dots. *J. Applied Phys.* 111, 056102. DOI: [10.1063/1.3691113](http://link.aip.org/link/doi/10.1063/1.3691113)
 
-`2012`
+
  A. Birkisson and T. A. Driscoll. Automatic Fréchet differentiation for the numerical solution of boundary-value problems. *ACM Trans. Math. Soft.* 38, Article 26. DOI: [10.1145/2331130.2331134](http://dx.doi.org/10.1145/2331130.2331134)
 
-`2012`
+
  R. J. Braun, R. Usha, G. B. McFadden, T. A. Driscoll, L. P. Cook, and P. E. King–Smith. Thin film dynamics on a prolate spheroid with application to the cornea. *J. Eng. Math.* 73(1), 121–138. DOI: [10.1007/s10665-011-9482-4](http://dx.doi.org/10.1007/s10665-011-9482-4)
 
 `2011`
@@ -212,10 +212,10 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 `2010`
  D. C. Usher, T. A. Driscoll, P. Dhurjati, J. A. Pelesko, L. F. Rossi, G. Schleiniger, K. Pusecker, and H. B. White. A transformative model for undergraduate quantitative biology education. *CBE Life Sci. Educ.* 9, 181–188. DOI: [10.1187/cbe.10-03-0029](http://dx.doi.org/10.1187/cbe.10-03-0029)
 
-`2010`
+
  A. R. H. Heryudono and T. A. Driscoll. Radial basis function interpolation on irregular domain through conformal transplantation. *J. Sci. Comput.* 44, 286–300. DOI: [10.1007/s10915-010-9380-3](http://dx.doi.org/10.1007/s10915-010-9380-3)
 
-`2010`
+
  T. A. Driscoll. Automatic spectral collocation for integral, integro-differential, and integrally reformulated differential equations. *J. Comput. Phys.* 229, 5980–5998. DOI: [10.1016/j.jcp.2010.04.029](http://dx.doi.org/10.1016/j.jcp.2010.04.029) 
 
 `2008`
