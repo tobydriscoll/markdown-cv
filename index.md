@@ -439,12 +439,13 @@ Last updated: May 2013 -->
 `2008`
 "Solving continuous differential equations numerically: chebfun and chebop"
 * SIAM Annual Meeting, San Diego, July 2008
-* University of Manchester seminar, May 2008
+* University of Manchester Seminar, May 2008
 * Numerical Analysis Group Seminar, Oxford University, April 2008
-* University of Dundee seminar, April 2008
+* University of Dundee Seminar, April 2008
 
 "Least squares methods for conformal mapping and boundary value problems," SIAM Annual Meeting, San Diego, July 2008.
 
+`2007`
 "Modeling and simulation of human tear film dynamics," Colloquium, SUNY Buffalo, November 2007.
 
 "Detection and approximation of jumps using complex-variable techniques," 7th International Conference on Spectral and High-Order Methods (ICOSAHOM), Beijing, China, June 2007 (minisymposium). 
@@ -453,7 +454,7 @@ Last updated: May 2013 -->
 
 "Radial basis function methods for meshless PDE computation," Seminar, New Jersey Institute of Technology, January 2007. 
 
-"Radial basis function methods for meshless PDE computation," Numerical Analysis Group Seminar, Oxford University, January 2007. 
+"Radial basis function methods for meshless PDE computation," Oxford University Computing Laboratory, January 2007. 
 
 `2006`
 "Conformal mapping 2.0," Seminar, Dartmouth College, October 2006.
@@ -465,28 +466,121 @@ Last updated: May 2013 -->
 "Optimal node placement for Gaussian radial basis function interpolation," Seminar, Tufts University, February 2006.
 
 `2004`
+"SVD-based importance sampling for finding rare events in noisy optical transmission," Rice University, October 2004.
+
 "SVD-based importance sampling for an optics-based dynamical system," SIAM Nonlinear Waves and Coherent Structures, University of Central Florida, October 2004.
  
+"Schwarz--Christoffel maps to surfaces in space," University of Maryland, Baltimore County, April 2004.
+
 "High-order time stepping methods for electromagnetics," Computational Electromagnetics, Math. Forschungsinstitut
 Oberwolfach, February 2004. 
 
 
 `2003`
+"Solution of Laplace's equation by conformal mapping," Oxford University Computing Laboratory, 2003.
+
 "The EigTool system for exploring matrix eigenmode problems," International Congress on Industrial and Applied
 		Mathematics, Sydney, Australia, July 2003 (minisymposium). 
 
 "Numerical conformal mapping in 2003: A survey," International Congress on Industrial and Applied Mathematics,
 Sydney, Australia, July 2003 (minisymposium, organizer).
-	\end{mylist}
 
 "Overdetermined formulations for eigenmode problems," International Congress on Industrial and Applied Mathematics,
 		Sydney, Australia, July 2003 (minisymposium).
 
+ "Directed random walks and importance sampling for noisy optical communications," IMACS Nonlinear Evolution Equations and Wave Phenomena, April 2003.
+
 `2002`
-"Schwarz--Christoffel mapping in MATLAB," European Microwave Week, Milan, Italy, September 2002. 
+"Schwarz–Christoffel mapping in MATLAB," European Microwave Week, Milan, Italy, September 2002. 
+
+"Use of the SVD for finding rare events in noisy optical communcations," SIAM Annual Meeting, July 2002.
+
+"Schwarz–Christoffel conformal mapping," University of Delaware, 2002.
+
+"Significant perturbations of NLS from SVD analysis," Northwestern University, January 2002.
 
 `2001`
-"Wavenumber-dependent time stepping methods for semilinear evolution equations," IMACS Conference on Nonlinear Waves, University of Georgia,  April 2001 (Minisymposium).
+"Significant perturbations of NLS from SVD analysis," University of Maryland, Baltimore County, August 2001.
 
 "Schwarz–Christoffel conformal mapping," Computational Methods and Function Theory, University of
 Aveiro, Portugal, June 2001 (Plenary speaker).
+
+"Fast time stepping methods for semilinear evolution equations," Northwestern University, June 2001.
+
+"Wavenumber-dependent time stepping methods for semilinear evolution equations," IMACS Conference on Nonlinear Waves, University of Georgia,  April 2001 (Minisymposium).
+
+`2000`
+"Radial basis functions for the simulation of PDEs" 
+* Courant Institute (NYU), November 2000
+* University of Delaware, November 2000
+* Brown University, October 2000
+
+"High-order space and time methods for propagation problems"
+* University of California--Santa Barbara, 2000
+* University of Michigan, 2000
+* University of Delaware, 2000
+
+
+`1999`
+"High-order space and time methods for propagation problems," Georgia Institute of Technology, 1999.
+
+"An efficient spectral method for the solution of nonlinear wave equations"
+* Dundee Numerical Analysis Conference, 1999
+* Colorado Days at Los Alamos National Laboratory, 1999
+
+"Staggered time integrators for wave equations," Oxford University Computing Laboratory, 1999.
+
+`1998`
+ "Block pseudospectral methods for Maxwell's equations in inhomogeneous media"
+* SIAM Annual Meeting, 1998
+* SIAM Conference on Wave Propagation, 1998
+* Los Alamos Days at Colorado, 1998
+
+"Spectrally accurate summation of Fourier series for functions with jump discontinuities," University of Colorado, Boulder, 1998.
+
+"Block pseudospectral methods for Maxwell's equations in inhomogeneous media," Oak Ridge National Laboratory, 1998.
+
+"Schwarz–Christoffel mapping in MATLAB," University of Tennessee, Knoxville, 1998.
+
+`1997` 
+"Uses of the Berenger PML with psuedospectral methods for Maxwell's equations" (poster), IUTAM: Computational Methods for Unbounded Domains, Boulder, CO, 1997.
+
+"Numerical conformal mapping using cross-ratios and Delaunay triangulation,"
+* Computational Methods and Function Theory, 1997
+* ISAAC Conference, University of Delaware, 1997
+
+"Numerical conformal mapping using cross-ratios and Delaunay triangulation," Lesile Fox Prize Competition, 1997.
+
+"Eigenmodes of isospectral drums" 
+* Colorado State University, 1997
+* Colorado School of Mines, 1997
+* University of Colorado, Denver, 1997
+* MIT, 1997
+
+`1996`
+"Numerical conformal mapping using cross-ratios and Delaunay triangulation," University of Colorado, Boulder, 1996.
+
+"Schwarz–Christoffel mapping in MATLAB"
+* Wichita State University, 1996
+* University of Colorado, 1996
+
+`1995`
+ "Eigenmodes of isospectral drums"
+* MATLAB conference, 1995
+* SIAM Annual Meeting, 1995
+* ICOSAHOM, 1995
+* Cornell Univeristy, 1995
+
+`1994`
+"Conformal mapping and the convergence of Krylov iterations," Colorado Conference on Iterative Methods, Breckenridge, CO, 1994.
+
+"Schwarz–Christoffel mapping in MATLAB"
+* Universität Karlsruhe, 1994
+* ETH, Zürich, 1994
+
+`1993`
+"Pseudospectra of the wave operator with an absorbing boundary," SIAM Annual Meeting, July 1993.
+
+"Schwarz–Christoffel mapping in MATLAB," Cornell Numerical Analysis Day, 1993.
+
+
