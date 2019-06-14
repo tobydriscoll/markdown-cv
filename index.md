@@ -312,7 +312,7 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Refereed/invited proceedings and posters
+### Refereed proceedings and posters
 `2018`
 R. J. Braun, L. Zhong, T. A. Driscoll, C. G. Begley, D. Antwi, P. E. King-Smith. Models for Tear Break Up Dynamics and Imaging. 7th European Conference on Computational Fluid Dynamics.
 
