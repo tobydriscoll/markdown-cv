@@ -17,13 +17,13 @@ title: CV of Tobin A. Driscoll
 ## Education
 `1996`
 **Cornell University** 
-Ph.D. in Applied Mathematics
+* Ph.D. in Applied Mathematics
 * Dissertation: Domain decomposition methods for conformal mapping and eigenvalue problems
 * Advisor: Lloyd N. Trefethen
 
 `1993`
 **Cornell University**
-M.S. in Applied Mathematics
+* M.S. in Applied Mathematics
 
 `1991`
 **Pennsylvania State University**
@@ -362,7 +362,7 @@ Last updated: May 2013 -->
 	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
     * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
 	* 2009: Version 3.0 (with A. Birkisson): Automatic differentiation and solution for nonlinear operators
-	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP,eigenvalue, PDE)
+	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP, eigenvalue, PDE)
  * T. A. Driscoll. [http://github.com/tobydriscoll/sc-toolbox](Schwarz--Christoffel Toolbox for MATLAB.)
 	* 2002: Module for solving Laplace's equation with piecewise constant boundary conditions.
 	* 2000: Object-oriented interface for polygons and maps.
