@@ -130,6 +130,8 @@ T. A. Driscoll (PI). Fast time stepping for the computational simulation of diff
 T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000
 
 ## Publications
+For a filterable list with live links, go to [my web site](https://tobydriscoll.github.io/publication/). Or you can visit my [Google Scholar site](https://scholar.google.com/citations?user=V2c1tmAAAAAJ&hl=en). 
+
 ### Books
 
 `2018`
@@ -586,9 +588,13 @@ Aveiro, Portugal, June 2001 (Plenary speaker).
 ## Students supervised
 
 Kevin Aiton, Ph.D., 2019
+
 Shawn Abernethy, M.S. with thesis, 2013
+
 Quan Deng, Ph.D., 2013
+
 Alfa Heryudono, Ph.D., 2008
+
 Rodrigo Platte, Ph.D., 2005
 
 ## Teaching
