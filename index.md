@@ -16,12 +16,14 @@ title: CV of Tobin A. Driscoll
 
 ## Education
 `1996`
-**Cornell University:** Ph.D. in Applied Mathematics
+**Cornell University** 
+Ph.D. in Applied Mathematics
 * Dissertation: Domain decomposition methods for conformal mapping and eigenvalue problems
 * Advisor: Lloyd N. Trefethen
 
 `1993`
-**Cornell University:** M.S. in Applied Mathematics
+**Cornell University**
+M.S. in Applied Mathematics
 
 `1991`
 **Pennsylvania State University**
@@ -127,7 +129,8 @@ T. A. Driscoll (PI). Fast time stepping for the computational simulation of diff
 `1996–1999`
 T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000
 
-## Books
+## Publications
+### Books
 
 `2018`
 L. N. Trefethen, A. Birkisson, and T. A. Driscoll. *Exploring ODEs*, SIAM
@@ -144,7 +147,7 @@ T. A. Driscoll, *Learning MATLAB*, Society for Industrial and Applied Mathematic
 `2002`
 T. A. Driscoll and L. N. Trefethen. *Schwarz–Christoffel Mapping*, Cambridge University Press
  
-## Book chapters 
+### Book chapters 
 
 `2007`
 T. A. Driscoll and B. Fornberg. Padé-based interpretation
@@ -153,7 +156,7 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
  `2002`
  T. A. Driscoll and L. N. Trefethen. Numerical construction of conformal maps. Appendix to *Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics*, 3rd edition, by E. D. Saff and A. D. Snider, Prentice Hall.
  
-## Journal articles
+### Journal articles
 
 `2018`
  T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. *J. Eng. Math.* 111 (1): 111–126.
@@ -307,7 +310,7 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-## Refereed/invited proceedings and posters
+### Refereed/invited proceedings and posters
 `2018`
 R. J. Braun, L. Zhong, T. A. Driscoll, C. G. Begley, D. Antwi, P. E. King-Smith. Models for Tear Break Up Dynamics and Imaging. 7th European Conference on Computational Fluid Dynamics.
 
@@ -334,20 +337,7 @@ L. N. Trefethen and T. A. Driscoll. Schwarz--Christoffel mapping in the computer
 `1997`
 G. Wojcik, B. Fornberg, R. Waag, J. Mould, T. A. Driscoll, and L. Nikodym. Pseudospectral methods for large-scale bioacoustic models. Proceedings of the 1997 IEEE Ultrasonics Symposium.
 
-## Software
-
-* L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). (Major Driscoll contributions noted for the releases below.)
-	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
-    * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
-	* 2009: Version 3.0 (with A. Birkisson): Automatic differentiation and solution for nonlinear operators
-	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP,eigenvalue, PDE)
- * T. A. Driscoll. [http://www.math.udel.edu/~driscoll/software/SC/index.html](Schwarz--Christoffel Toolbox for MATLAB.)
-	* 2002: Module for solving Laplace's equation with piecewise constant boundary conditions.
-	* 2000: Object-oriented interface for polygons and maps.
-	* 1996: Inclusion of CRDT algorithm for elongated regions.
-	* 1994: Initial release.
-
-## Other works
+### Other works
 * T. A. Driscoll. Review of *Elements of Scientific Computing*, by Tveito, Langtangen, Nielsen, and Cai. *SIAM Review* 53, 807--808, 2011.
 * M. Hassner, D. V. Leykin, and T. A. Driscoll. An analytic model of MR/GMR head sensitivity function. IBM Research Report RJ 10167, 1999.
 * T. A. Driscoll. Review of *Computational Conformal Mapping*, by P. K. Kythe. *SIAM Review* 41 (1999), 832--834.
@@ -364,4 +354,139 @@ Last updated: May 2013 -->
 
 
 
+## Software
+
+* L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). (Major Driscoll contributions noted for the releases below.)
+	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
+    * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
+	* 2009: Version 3.0 (with A. Birkisson): Automatic differentiation and solution for nonlinear operators
+	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP,eigenvalue, PDE)
+ * T. A. Driscoll. [http://github.com/tobydriscoll/sc-toolbox](Schwarz--Christoffel Toolbox for MATLAB.)
+	* 2002: Module for solving Laplace's equation with piecewise constant boundary conditions.
+	* 2000: Object-oriented interface for polygons and maps.
+	* 1996: Inclusion of CRDT algorithm for elongated regions.
+	* 1994: Initial release.
+
 ## Presentations
+
+`2018`
+"Preconditioning nonlinear equations with domain decomposition," AMS Eastern Sectional Meeting, University of Delaware, September 2018. 
+
+"Exploring differential equations using Chebfun," SIAM Annual Meeting Minisymposium, Portland, OR, July 2018.
+
+"Dynamics on a model blinking eye-shaped domain," SIAM Annual Meeting Minisymposium, Portland, OR, July 2018.
+
+`2017`
+"Mathematical and computational modeling of the tear film," Center for Bioinformatics & Computational Biology Seminar, University of Delaware, 2017.
+
+`2016`
+"Dynamics on a model blinking eye-shaped domain," SIAM Annual Meeting Minisymposium, Boston, July 2016.
+
+`2015`
+"Data-driven systemic modeling of infant hypoplastic left heart syndrome," Center for Cardiovascular Health Symposium, University of Delaware, October 2015. 
+
+"Flipping the classroom for numerical computation," MathWorks Research Summit, Natick, MA, June 2015. 
+ 
+"Automatic multivariate approximation," SIAM Computational Science and Engineering Conference Minisymposium, Salt Lake City, AZ, April 2015. 
+
+"An open-source software project for numerical conformal mapping," BIRS Workshop on Modern Applications of Complex Variables, Banff, AL, January 2015.
+
+`2014`
+"New directions in spectral methods," Numerical Analysis Seminar, Cornell University, November 2014.
+
+`2013`
+"Optimal splitting in spectral collocation," Numerical Analysis Group Seminar, Oxford University, November 2013. 
+
+"Numerical computing with functions," Colloquium, Wichita State University, September 2013.
+
+"Reflections on flipping a math classroom," Summer Faculty Institute, University of Delaware, June 2013.
+
+"Optimal splitting in spectral collocation," Seminar, Arizona State, April 2013.
+
+"Numerical computing with functions," Colloquium, Arizona State, April 2013.
+
+`2012`
+"Numerical computing with functions," Colloquium, Temple University, December 2012.
+
+"Chebfun beyond the ordinary (DE)," [http://www2.maths.ox.ac.uk/chebfun/and_beyond/](Chebfun and Beyond) Workshop, Oxford University, September 2012.
+
+"Spectral deferred correction for time-dependent PDEs in Chebfun," [http://www.siam.org/meetings/an12/](SIAM Annual Meeting 2012), Minneapolis, July 2012.
+  \end{mylist}
+
+"Chebfun for PDE," [http://www.birs.ca/events/2012/5-day-workshops/12w5021](Eigenvalues/singular values and fast PDE algorithms: acceleration, conditioning, and stability), Banff International Research Station, June 2012. 
+
+"Optimal splitting in spectral collocation," Del-Mar Numerical Analysis Day, University of Delaware, April 2012.
+
+`2011`
+"Differential equations in Chebfun," [http://www.iciam2011.com](Seventh International Congress on Industrial and Applied Mathematics), Vancouver, July 2011 (minisymposium). 
+
+"Rectangular projections for reliable spectral collocation," [http://www.iciam2011.com](Seventh International Congress on Industrial and Applied Mathematics), Vancouver, July 2011 (minisymposium).
+
+"Chebfun: A software system for interacting with functions," NSF-CBMS Conference on Radial Basis Functions, Dartmouth, MA, June 2011.
+
+"Approximation Theory, Spectral Methods, and Chebfun" (with L. N. Trefethen), \[http://www.dmi.units.it/dobbiaco11/index.php?section=page&action=inc&name=aims](Fifth annual Dobbiaco Summer School), Dobbiaco, Italy, June 12-17, 2011.
+
+`2010`
+"Automatic Fréchet differentiation for the spectral solution of boundary-value problems," SIAM Annual Meeting, July 2010 (minisymposium). 
+ 
+`2009`
+"Automatic solution of differential equations in the Chebfun system," Meeting of the Canadian Applied and Industrial Mathematics Society, University of Western Ontario, June 2009. 
+
+"Automatic solution of differential equations in the Chebfun system," SIAM Southeastern-Atlantic Section Conference, University of South Carolina, April 2009. 
+
+"Automatic solution of differential equations in the Chebfun system," Courant Institute Seminar, February 2009.
+
+`2008`
+"Solving continuous differential equations numerically: chebfun and chebop"
+* SIAM Annual Meeting, San Diego, July 2008
+* University of Manchester seminar, May 2008
+* Numerical Analysis Group Seminar, Oxford University, April 2008
+* University of Dundee seminar, April 2008
+
+"Least squares methods for conformal mapping and boundary value problems," SIAM Annual Meeting, San Diego, July 2008.
+
+"Modeling and simulation of human tear film dynamics," Colloquium, SUNY Buffalo, November 2007.
+
+"Detection and approximation of jumps using complex-variable techniques," 7th International Conference on Spectral and High-Order Methods (ICOSAHOM), Beijing, China, June 2007 (minisymposium). 
+
+"Spectral least-squares for conformal mapping and potential theory," Computational and Conformal Geometry Workshop, SUNY Stony Brook, April 2007.
+
+"Radial basis function methods for meshless PDE computation," Seminar, New Jersey Institute of Technology, January 2007. 
+
+"Radial basis function methods for meshless PDE computation," Numerical Analysis Group Seminar, Oxford University, January 2007. 
+
+`2006`
+"Conformal mapping 2.0," Seminar, Dartmouth College, October 2006.
+
+"Developing a computational framework for conformal mapping," SIAM Annual Meeting, Boston, July 2006.
+
+"Optimal node placement for Gaussian radial basis function interpolation," SIAM Annual Meeting, Boston, July 2006.
+
+"Optimal node placement for Gaussian radial basis function interpolation," Seminar, Tufts University, February 2006.
+
+`2004`
+"SVD-based importance sampling for an optics-based dynamical system," SIAM Nonlinear Waves and Coherent Structures, University of Central Florida, October 2004.
+ 
+"High-order time stepping methods for electromagnetics," Computational Electromagnetics, Math. Forschungsinstitut
+Oberwolfach, February 2004. 
+
+
+`2003`
+"The EigTool system for exploring matrix eigenmode problems," International Congress on Industrial and Applied
+		Mathematics, Sydney, Australia, July 2003 (minisymposium). 
+
+"Numerical conformal mapping in 2003: A survey," International Congress on Industrial and Applied Mathematics,
+Sydney, Australia, July 2003 (minisymposium, organizer).
+	\end{mylist}
+
+"Overdetermined formulations for eigenmode problems," International Congress on Industrial and Applied Mathematics,
+		Sydney, Australia, July 2003 (minisymposium).
+
+`2002`
+"Schwarz--Christoffel mapping in MATLAB," European Microwave Week, Milan, Italy, September 2002. 
+
+`2001`
+"Wavenumber-dependent time stepping methods for semilinear evolution equations," IMACS Conference on Nonlinear Waves, University of Georgia,  April 2001 (Minisymposium).
+
+"Schwarz–Christoffel conformal mapping," Computational Methods and Function Theory, University of
+Aveiro, Portugal, June 2001 (Plenary speaker).
