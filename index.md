@@ -583,4 +583,105 @@ Aveiro, Portugal, June 2001 (Plenary speaker).
 
 "Schwarz–Christoffel mapping in MATLAB," Cornell Numerical Analysis Day, 1993.
 
+## Students supervised
 
+Kevin Aiton, Ph.D., 2019
+Shawn Abernethy, M.S. with thesis, 2013
+Quan Deng, Ph.D., 2013
+Alfa Heryudono, Ph.D., 2008
+Rodrigo Platte, Ph.D., 2005
+
+## Teaching
+### Philosophy
+While I enjoy lecturing, I no longer believe it should be the only or even primary way of teaching most math classes. The marginal benefits of a live lecture over a recorded one are overshadowed by supervised active learning, where the instructor shares expertise with students as they wrestle with the material themselves. I use techniques such as problem-based learning, laboratory exploration, personal response systems, and flipping the classroom to create active learning opportunities. In addition, I believe mathematics needs to embrace teaching computation throughout the curriculum, rather than quarantining it into a few courses or lab sections. 
+### Undergraduate 
+Calculus A,B,C
+* Including special section of Calculus A for life sciences majors
+
+Linear algebra (math and engineering majors)
+
+ODEs (math and engineering majors)
+
+PDEs (math and engineering majors)
+
+Computational mathematics (two-semester sequence)
+
+Complex analysis
+
+### Graduate 
+Numerical linear algebra and nonlinear equations
+
+Numerical ODEs/PDEs
+
+Spectral/high-order methods for PDEs
+
+Radial basis functions
+
+<!-- ## Technology uses
+
+Video recorded lectures with quizzes for numerical analysis and vector calculus
+
+Maple demos, labs, and projects in computer classrooms for
+calculus, ODEs
+
+MATLAB demos, labs, and projects in computer classrooms for
+linear algebra, numerical analysis
+
+In-class demos for complex analysis
+
+Student blogs and wikis
+
+Maple TA, Webassign for computer assigned/graded homework in calculus 
+
+Lightscribe pencasts (ODEs/linear algebra)
+
+Screen capture on a tablet PC (calculus, numerical analysis)
+
+Use of Sakai and Canvas LMS -->
+
+## Professional activities 
+Associate Editor of *Advances in Computational Mathematics*, 2019–present
+
+Director of Undergraduate Studies (Delaware), 2018–present
+
+At-Large Member of the SIAM Council, 2015–2018
+
+Associate Editor of the *SIAM Journal on Scientific
+Computing*, 2008–2014
+
+Associate Editor of *Journal of Engineering Mathematics*, 2010–2015
+
+Director of Graduate Studies (Delaware), 2014–2014
+
+Member, Society for Industrial and Applied Mathematics
+
+<!-- Referee for SISC, SINUM, J.\ Comput.\ Phys., Proc.\ Royal Soc.\
+A, J.\ Comput.\ Appl.\ Math., Computers Math.\ Appl., J. Sci.\
+Comput., Num.\ Meth.\ Fluids, J.\ Phys.\ A, Phys.\ Rev.\ E, SIAM J.\ on
+Applied Dynamical Systems, Constr.\ Approx., Complex Var.,
+Comput. Meth. Func. Theory 
+Book reviewer for SIAM Review, Wiley, J.\ Flu.\ Mech.
+
+Reviewer of grant proposals for NSF and the Swiss National Science
+Foundation -->
+
+Organizing committee of Mathematical Problems in Industry, 2004 (Delaware)
+
+## Academic visits
+Institute for Mathematics and Its Applications, University of Minnesota, September–December 2010
+
+Oxford University Computing Laboratory, January–June 2008
+
+Oxford University Computing Laboratory, Summer 1999
+
+ETH Supercomputing Institute, Zürich, Summer 1994
+
+## Consultations
+United Technologies, 2002–2003
+* Contact: Fabio Bertolotti. Use of spectral methods in investigating thermoacoustic instability in power-generating turbines.
+	
+Weidlinger Associates, 1998–2000
+* Contact: Greg Wojcik. High-order and spectral methods in space and time for the numerical simulation of acoustic wave propagation in tissue.
+	 
+IBM Almaden Research Center, 1995–2001
+* Contact: Martin Hassner. Applications of conformal mapping to inductive and magnetoresistive read heads for hard drives.
