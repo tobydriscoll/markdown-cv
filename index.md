@@ -153,6 +153,8 @@ T. A. Driscoll, *Learning MATLAB*, Society for Industrial and Applied Mathematic
 T. A. Driscoll and L. N. Trefethen. *Schwarz–Christoffel Mapping*, Cambridge University Press
  
 ### Book chapters 
+`2019`
+R. J. Braun, T. A. Driscoll, and C. G. Begley, “Mathematical Models of the Tear Film,” in *Mathematical Modeling of Ocular Fluid Dynamics: From Theory to Clinical Applications*, Springer-Birkhauser, 2019.
 
 `2007`
 T. A. Driscoll and B. Fornberg. Padé-based interpretation
@@ -165,9 +167,6 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 
 `2019`
 K. L. Maki, W. D. Henshaw, A. McManus, R. J. Braun, D. M. Chapp, and T. A. Driscoll, “A model for tear film dynamics during a realistic blink,” J. Modeling Ophthalmology, vol. 3, pp. 21–27, 2019.
-
-R. J. Braun, T. A. Driscoll, and C. G. Begley, “Mathematical Models of the Tear Film,” in *Mathematical Modeling of Ocular Fluid Dynamics: From Theory to Clinical Applications*, Springer-Birkhauser, 2019.
-
 
 
 `2018`
