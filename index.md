@@ -87,47 +87,50 @@ Braddock Scholar (Penn State undergraduate study)
 
 ## Grants
 
+`2019-2022`
+R. J. Braun (PI), T. A. Driscoll (co-PI). Models for Tear Film Structure, Dynamics and Parameter Identification. NSF DMS-1909846, $375,000.
+
 `2014–2017`
-R. J. Braun (PI), T. A. Driscoll, and K. L. Maki (co-PIs). Collaborative Research: Tear Film Dynamics: Modeling, Blinking, and Computation. NSF DMS-1412085 $375,003
+R. J. Braun (PI), T. A. Driscoll, and K. L. Maki (co-PIs). Collaborative Research: Tear Film Dynamics: Modeling, Blinking, and Computation. NSF DMS-1412085, $375,003.
 
 `2014–2016`
-M. McCulloch (PI), T. A. Driscoll, and G. Schleiniger (co-PIs). Data driven mathematical modeling of the hypoplastic left heart syndrome circulation. NIH Delaware INBRE III, $60,724
+M. McCulloch (PI), T. A. Driscoll, and G. Schleiniger (co-PIs). Data driven mathematical modeling of the hypoplastic left heart syndrome circulation. NIH Delaware INBRE III, $60,724.
 
 `2013–2015`
 T. A. Driscoll. Special support from The MathWorks, Inc.
 
 `2013–2014`
-M. McCulloch (PI), T. A. Driscoll, and G. Schleiniger (co-PIs). Computer simulation of the single ventricle anatomy and physiology explaining mechanisms for sudden cardiac death. NIH Delaware INBRE Grant, $44,182
+M. McCulloch (PI), T. A. Driscoll, and G. Schleiniger (co-PIs). Computer simulation of the single ventricle anatomy and physiology explaining mechanisms for sudden cardiac death. NIH Delaware INBRE Grant, $44,182.
 
 `2012–2015`
-T. A. Driscoll (PI) with 5 other key personnel. Meeting the need in mathematics at the University of Delaware. U.S. Department of Education  Graduate Assistance in Areas of National Need, $527,700
+T. A. Driscoll (PI) with 5 other key personnel. Meeting the need in mathematics at the University of Delaware. U.S. Department of Education  Graduate Assistance in Areas of National Need, $527,700.
 
 `2010–2013`
-R. J. Braun (PI) and T. A. Driscoll (co-PI), Modeling tear film dynamics. NSF DMS-1022706, $444,000
+R. J. Braun (PI) and T. A. Driscoll (co-PI), Modeling tear film dynamics. NSF DMS-1022706, $444,000.
 
 `2007`
-L. F. Rossi, T. Driscoll, and R. Luke (co-PIs), Strengthening mathematics instruction with automated algorithmic mastery activities. Center for Teaching Effectiveness (UD), $20,000
+L. F. Rossi, T. Driscoll, and R. Luke (co-PIs), Strengthening mathematics instruction with automated algorithmic mastery activities. Center for Teaching Effectiveness (UD), $20,000.
 
 `2006–2009`
-R. Braun (PI), L. P. Cook, and T. A. Driscoll (co-PIs), Modeling the blink cycle and lipid dynamics in the tear film. NSF DMS-0616483, $325,000
+R. Braun (PI), L. P. Cook, and T. A. Driscoll (co-PIs), Modeling the blink cycle and lipid dynamics in the tear film. NSF DMS-0616483, $325,000.
 
 `2006–2010`
-H. B. White et al. (co-PIs), with T. A. Driscoll and others as senior personnel. Howard Hughes Medical Institute Undergraduate Science Education grant, $1,500,000
+H. B. White et al. (co-PIs), with T. A. Driscoll and others as senior personnel. Howard Hughes Medical Institute Undergraduate Science Education grant, $1,500,000.
 
 `2003`
-R. Braun, T. A. Driscoll, P. Monk, L. F. Rossi (co-PIs). NSF Scientific Computing Research Environments for the Mathematical Sciences. NSF DMS-0322583, $68,460
+R. Braun, T. A. Driscoll, P. Monk, L. F. Rossi (co-PIs). NSF Scientific Computing Research Environments for the Mathematical Sciences. NSF DMS-0322583, $68,460.
 
 `2003`
 University of Delaware International Travel Award
 
 `2001–2004`
-T. A. Driscoll (PI). Novel fast and accurate methods for partial differential equations. NSF DMS-0104229, $88,407
+T. A. Driscoll (PI). Novel fast and accurate methods for partial differential equations. NSF DMS-0104229, $88,407.
 
 `2001–2002`
-T. A. Driscoll (PI). Fast time stepping for the computational simulation of differential equations. University of Delaware Research Foundation, $21,042
+T. A. Driscoll (PI). Fast time stepping for the computational simulation of differential equations. University of Delaware Research Foundation, $21,042.
 
 `1996–1999`
-T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000
+T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000.
 
 ## Publications
 For a filterable list with live links, go to [my web site](https://tobydriscoll.github.io/publication/). Or you can visit my [Google Scholar site](https://scholar.google.com/citations?user=V2c1tmAAAAAJ&hl=en). 
@@ -159,6 +162,13 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
  T. A. Driscoll and L. N. Trefethen. Numerical construction of conformal maps. Appendix to *Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics*, 3rd edition, by E. D. Saff and A. D. Snider, Prentice Hall.
  
 ### Journal articles
+
+`2019`
+K. L. Maki, W. D. Henshaw, A. McManus, R. J. Braun, D. M. Chapp, and T. A. Driscoll, “A model for tear film dynamics during a realistic blink,” J. Modeling Ophthalmology, vol. 3, pp. 21–27, 2019.
+
+R. J. Braun, T. A. Driscoll, and C. G. Begley, “Mathematical Models of the Tear Film,” in *Mathematical Modeling of Ocular Fluid Dynamics: From Theory to Clinical Applications*, Springer-Birkhauser, 2019.
+
+
 
 `2018`
  T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. *J. Eng. Math.* 111 (1): 111–126.
