@@ -44,7 +44,7 @@ title: CV of Tobin A. Driscoll
 
 `2000–2004`
 **University of Delaware** 
-* Associate Professor, Department of Mathematical Sciences  
+* Assistant Professor, Department of Mathematical Sciences  
 
 `1996–2000`
 **University of Colorado at Boulder**
