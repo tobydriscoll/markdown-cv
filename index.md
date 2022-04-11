@@ -686,7 +686,7 @@ Use of Sakai and Canvas LMS -->
 
 ## Service activities
 
-## Department of Mathematical Sciences at Delaware
+### Department of Mathematical Sciences
 
 Director of Graduate Studies (Delaware), 2011–2014
 
@@ -700,7 +700,7 @@ Chaired ad hoc committee to create B.S. degree in Data Science
 
 FIrst to teach Math 219, Data Science I
 
-## College and university
+### College and university
 
 ADVANCE Fellow and Senior Fellow, 2020–present
 
@@ -714,7 +714,7 @@ Faculty Senate Undergraduate Studies Committee, 2008–2010
 
 Arts & Sciences Educational Affairs Committtee, 2004–2005
 
-## Profession
+### Profession
 
 Communicating Editor of *Advances in Computational Mathematics*, 2019–present
 
