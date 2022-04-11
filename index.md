@@ -175,7 +175,7 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 `2020`
 [58] K. W. Aiton and T. A. Driscoll, “Preconditioned nonlinear iterations for overlapping Chebyshev discretizations with independent grids,” SIAM J. Sci. Comput., vol. 42, no. 4, pp. A2360–A2370.
 
-[57] R. A. Luke, R. J. Braun, T. A. Driscoll, C. G. Begley, and D. Awisi-Gyau, “Parameter Estimation for Evaporation-Driven Tear Film Thinning,” Bull Math Biol, vol. 82, no. 6, p. 71.
+[57] R. A. Luke, R. J. Braun, T. A. Driscoll, C. G. Begley, and D. Awisi-Gyau, “Parameter estimation for evaporation-driven tear film thinning,” Bull Math Biol, vol. 82, no. 6, p. 71.
 
 
 `2019`
@@ -259,9 +259,9 @@ Heat transfer and tear film dynamics over multiple blink cycles.
  [26] T. DeLillo, T. A. Driscoll, A. Elcrat, and J. Pfaltzgraff. Computation of multiply connected Schwarz–Christoffel maps for exterior domains. *Comput. Meth. Function Theory* 6, 301–315.
 
 `2005`
- [25] J. A. Pelesko and T. A. Driscoll. The effect of the small-aspect-ratio approximation on canonical electrostatic {MEMS} models. *J. Engng. Math.* 53, 239–252.  DOI: [10.1007/s10665-005-9013-2](http://dx.doi.org/10.1007/s10665-005-9013-2)
+ [25] J. A. Pelesko and T. A. Driscoll. The effect of the small-aspect-ratio approximation on canonical electrostatic MEMS models. *J. Engng. Math.* 53, 239–252.  DOI: [10.1007/s10665-005-9013-2](http://dx.doi.org/10.1007/s10665-005-9013-2)
 
- [24] R. Platte and T. A. Driscoll. Polynomials and potential theory for Gaussian radial basis function interpolation.} *SIAM J. Num. Analy.* 43, 750–766. DOI: [10.1137/040610143](http://dx.doi.org/10.1137/040610143)
+ [24] R. Platte and T. A. Driscoll. Polynomials and potential theory for Gaussian radial basis function interpolation. *SIAM J. Num. Analy.* 43, 750–766. DOI: [10.1137/040610143](http://dx.doi.org/10.1137/040610143)
 
  [23] T. A. Driscoll. Algorithm 843: Improvements to the MATLAB toolbox for Schwarz–Christoffel mapping. *ACM Trans. Math. Soft.* 31, 239–251. DOI: [10.1145/1067967.1067971](http://dx.doi.org/10.1145/1067967.1067971)
 
@@ -304,7 +304,7 @@ Heat transfer and tear film dynamics over multiple blink cycles.
  [8] T. A. Driscoll, K.-C. Toh, and L. N. Trefethen. From potential theory to matrix iterations in six steps.    
 	*SIAM Review* 40, 547–578.
 
- [7] T. A. Driscoll and S. A. Vavasis. Numerical conformal mapping using cross-ratios and Delaunay triangulation.}
+ [7] T. A. Driscoll and S. A. Vavasis. Numerical conformal mapping using cross-ratios and Delaunay triangulation.
 	*SIAM Sci. Comp.* 19, 1783–1803.
 
 `1997`
@@ -442,7 +442,6 @@ T. A. Driscoll. [https://github.com/complexvariables/ComplexRegions.jl](ComplexR
 "Chebfun beyond the ordinary (DE)," [http://www2.maths.ox.ac.uk/chebfun/and_beyond/](Chebfun and Beyond) Workshop, Oxford University, September 2012.
 
 "Spectral deferred correction for time-dependent PDEs in Chebfun," [http://www.siam.org/meetings/an12/](SIAM Annual Meeting 2012), Minneapolis, July 2012.
-  \end{mylist}
 
 "Chebfun for PDE," [http://www.birs.ca/events/2012/5-day-workshops/12w5021](Eigenvalues/singular values and fast PDE algorithms: acceleration, conditioning, and stability), Banff International Research Station, June 2012. 
 
