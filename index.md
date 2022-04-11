@@ -170,10 +170,10 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 
 [60] T. A. Driscoll, R. J. Braun, and C. G. Begley, “Automatic detection of the cornea location in video captures of fluorescence,” Modeling and Artificial Intelligence in Ophthalmology, vol. 3, no. 1, Art. no. 1.
 
-[59] R. A. Luke, R. J. Braun, T. A. Driscoll, D. Awisi-Gyau, and C. G. Begley, “Parameter Estimation for Mixed-Mechanism Tear Film Thinning,” Bull Math Biol, vol. 83, no. 5, p. 56.
+[59] R. A. Luke, R. J. Braun, T. A. Driscoll, D. Awisi-Gyau, and C. G. Begley, “Parameter estimation for mixed-mechanism tear film thinning,” Bull Math Biol, vol. 83, no. 5, p. 56.
 
 `2020`
-[58] K. W. Aiton and T. A. Driscoll, “Preconditioned Nonlinear Iterations for Overlapping Chebyshev Discretizations with Independent Grids,” SIAM J. Sci. Comput., vol. 42, no. 4, pp. A2360–A2370.
+[58] K. W. Aiton and T. A. Driscoll, “Preconditioned nonlinear iterations for overlapping Chebyshev discretizations with independent grids,” SIAM J. Sci. Comput., vol. 42, no. 4, pp. A2360–A2370.
 
 [57] R. A. Luke, R. J. Braun, T. A. Driscoll, C. G. Begley, and D. Awisi-Gyau, “Parameter Estimation for Evaporation-Driven Tear Film Thinning,” Bull Math Biol, vol. 82, no. 6, p. 71.
 
@@ -183,7 +183,7 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 
 [55] K. L. Maki, W. D. Henshaw, A. McManus, R. J. Braun, D. M. Chapp, and T. A. Driscoll, “A model for tear film dynamics during a realistic blink,” J. Modeling Ophthalmology, vol. 3, pp. 21–27.
 
-[54] K. W. Aiton and T. A. Driscoll, “An Adaptive Partition of Unity Method for Multivariate Chebyshev Polynomial Approximations,” SIAM J. Sci. Comput., vol. 41, no. 5, pp. A3230–A3245.
+[54] K. W. Aiton and T. A. Driscoll, “An adaptive partition of unity method for multivariate Chebyshev polynomial approximations,” SIAM J. Sci. Comput., vol. 41, no. 5, pp. A3230–A3245.
 
 `2018`
  [53] T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. *J. Eng. Math.* 111 (1): 111–126.
@@ -301,7 +301,7 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 `1998`
  [9] T. A. Driscoll and B. Fornberg. A block pseudospectral method for Maxwell's equations: I. One-dimensional case.	 *J. Comput. Phys.* 140, 47–65.
 
- [8] T. A. Driscoll, K.-C. Toh, and L. N. Trefethen. From potential theory to matrix iterations in six steps.}     
+ [8] T. A. Driscoll, K.-C. Toh, and L. N. Trefethen. From potential theory to matrix iterations in six steps.    
 	*SIAM Review* 40, 547–578.
 
  [7] T. A. Driscoll and S. A. Vavasis. Numerical conformal mapping using cross-ratios and Delaunay triangulation.}
