@@ -46,7 +46,7 @@ title: CV of Tobin A. Driscoll
 
 `2000–2004`
 **University of Delaware** 
-* Assistant Professor, Department of Mathematical Sciences  
+* Associate Professor, Department of Mathematical Sciences  
 
 `1996–2000`
 **University of Colorado at Boulder**
@@ -387,14 +387,11 @@ Last updated: May 2013 -->
 
 ## Software
 
-L. N. Trefethen and others, [Chebfun project](http://www.chebfun.org) for numerical computing with functions.
+L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). Chebfun project.
 
-T. A. Driscoll. [Schwarz--Christoffel Toolbox for MATLAB](http://github.com/tobydriscoll/sc-toolbox), for conformal mapping to polygonal regions.
+T. A. Driscoll. [http://github.com/tobydriscoll/sc-toolbox](Schwarz--Christoffel Toolbox for MATLAB.) Schwarz-Christoffel Toolbox for MATLAB.
 
-T. A. Driscoll. [ComplexRegions.jl](https://github.com/complexvariables/ComplexRegions.jl), for defining regions and paths in the complex plane.
-
-T. A. Driscoll. [Cornea detection](https://github.com/tobydriscoll/cornea-detection) for fluorescence movies.
-
+T. A. Driscoll. [https://github.com/complexvariables/ComplexRegions.jl](ComplexRegions.jl). Complex regions and paths in Julia. 
 <!-- ## Recent Presentations
 
 `2018`
@@ -663,47 +660,20 @@ Screen capture on a tablet PC (calculus, numerical analysis)
 
 Use of Sakai and Canvas LMS -->
 
-## Service activities
-
-## Department of Mathematical Sciences at Delaware
-
-Director of Graduate Studies (Delaware), 2011–2014
-
-Director of Undergraduate Studies (Delaware), 2018–2021
-
-Member of ad hoc committee to create the B.S. degree in Quantitative Biology
-
-Initial proposer of B.S. degree in Applied Mathematics
-
-Chaired ad hoc committee to create B.S. degree in Data Science
-
-FIrst to teach Math 219, Data Science I
-
-## College and university
-
-ADVANCE Fellow and Senior Fellow, 2020–present
-
-Faculty Senate Ad Hoc Subcommittee on Promotion Criteria for Continuing Track Faculty, 2021–2022
-
-University Strategic Planning Working Group on Redefining Creativity, Innovation and Entrepreneurship, 2021
-
-Faculty Senate Promotion and Tenure Committee, 2018–2020 (Chair for 2019–2020)
-
-Faculty Senate Undergraduate Studies Committee, 2008–2010
-
-Arts & Sciences Educational Affairs Committtee, 2004–2005
-
-## Profession
+## Professional activities
 
 Communicating Editor of *Advances in Computational Mathematics*, 2019–present
 
-At-Large Member of the SIAM Council, 2015–2018
+Director of Undergraduate Studies (Delaware), 2018–present
 
-Associate Editor of *Journal of Engineering Mathematics*, 2010–2015
+At-Large Member of the SIAM Council, 2015–2018
 
 Associate Editor of the *SIAM Journal on Scientific
 Computing*, 2008–2014
 
+Associate Editor of *Journal of Engineering Mathematics*, 2010–2015
+
+Director of Graduate Studies (Delaware), 2014–2014
 
 <!-- Member, Society for Industrial and Applied Mathematics -->
 
