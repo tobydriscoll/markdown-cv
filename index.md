@@ -33,7 +33,12 @@ title: CV of Tobin A. Driscoll
 * B.S. in Physics
 
 ## Professional experience
-`2010–present`
+`2022-present`
+**University of Delaware**
+* Unidel Chair Professor of Mathematical Sciences
+* Affiliated Faculty, Department of Biomedical Engineering 
+
+`2010–2022`
 **University of Delaware** 
 * Professor, Department of Mathematical Sciences  
 * Affiliated Faculty, Department of Biomedical Engineering 
@@ -136,6 +141,8 @@ T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship 
 For a filterable list with live links, go to [my web site](https://tobydriscoll.github.io/publication/). Or you can visit my [Google Scholar site](https://scholar.google.com/citations?user=V2c1tmAAAAAJ&hl=en). 
 
 ### Books
+`2022`
+T. A. Driscoll and R. J. Braun. *Fundamentals of Numerical Computation: Julia Edition*, SIAM
 
 `2018`
 L. N. Trefethen, A. Birkisson, and T. A. Driscoll. *Exploring ODEs*, SIAM
@@ -328,6 +335,9 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Refereed proceedings and posters
+`2022`
+[1] R. J. Braun, T. A. Driscoll et al., “Data and Analysis from Tear Breakup (TBU) in Normal Subjects,” Investigative Ophthalmology & Visual Science, vol. 63, no. 7, pp. 3950-A0230, Jun. 2022.
+
 `2021`
 R. A. Luke et al., “Fitting Simplified Models to Machine Learning-Identified Tear Film Breakup,” in Investigative Ophthalmology & Visual Science, Jun. 2021, vol. 62, p. 1315.
 `2018`
