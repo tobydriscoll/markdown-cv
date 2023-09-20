@@ -8,7 +8,6 @@ title: CV of Tobin A. Driscoll
 <a href="https://tobydriscoll.net">tobydriscoll.net</a>
 </div>
 
-
 ## Research interests
 * Numerical analysis & scientific computing
 * Applications of mathematics and computing to the life sciences and medicine
@@ -33,23 +32,14 @@ title: CV of Tobin A. Driscoll
 * B.S. in Physics
 
 ## Professional experience
-`2022-present`
+`2000-present`
 **University of Delaware**
-* Unidel Chair Professor of Mathematical Sciences
-* Affiliated Faculty, Department of Biomedical Engineering 
-
-`2010–2022`
-**University of Delaware** 
-* Professor, Department of Mathematical Sciences  
-* Affiliated Faculty, Department of Biomedical Engineering 
-
-`2004–2010`
-**University of Delaware** 
-* Associate Professor, Department of Mathematical Sciences  
-
-`2000–2004`
-**University of Delaware** 
-* Assistant Professor, Department of Mathematical Sciences  
+* Director, Master of science in data science (since 2023) 
+* Unidel Chaired Professor of Mathematical Sciences (since 2022) 
+* Professor, Department of Mathematical Sciences (since 2010)
+* Affiliated Faculty, Department of Biomedical Engineering  (since 2010) 
+* (2004-2010) Associate Professor, Department of Mathematical Sciences  
+* (2000-2004) Assistant Professor, Department of Mathematical Sciences  
 
 `1996–2000`
 **University of Colorado at Boulder**
@@ -162,7 +152,7 @@ T. A. Driscoll and L. N. Trefethen. *Schwarz–Christoffel Mapping*, Cambridge U
 ### Book chapters 
 
 `2019`
-R. J. Braun, T. A. Driscoll, and C. G. Begley, “Mathematical Models of the Tear Film,” in *Ocular Fluid Dynamics: Anatomy, Physiology, Imaging Techniques, and Mathematical Modeling*, Springer-Birkhauser, 2019.
+R. J. Braun, T. A. Driscoll, and C. G. Begley, “Mathematical Models of the Tear Film,” in *Ocular Fluid Dynamics: Anatomy, Physiology, Imaging Techniques, and Mathematical Modeling*, Springer-Birkhäuser, 2019.
 
 `2007`
 T. A. Driscoll and B. Fornberg. Padé-based interpretation
@@ -172,6 +162,9 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
  T. A. Driscoll and L. N. Trefethen. Numerical construction of conformal maps. Appendix to *Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics*, 3rd edition, by E. D. Saff and A. D. Snider, Prentice Hall.
  
 ### Journal articles
+`2023`
+[62] T. A. Driscoll et al., “Fitting ODE models of tear film breakup,” Modeling and Artificial Intelligence in Ophthalmology, vol. 5, no. 1, pp. 1–36, Sep. 2023, doi: 10.35119/maio.v5i1.128.
+
 `2021`
 [61] R. J. Braun, R. A. Luke, T. A. Driscoll, and C. G. Begley, “Dynamics and mechanisms for tear breakup (TBU) on the ocular surface,” Mathematical Biosciences and Engineering, vol. 18, no. 5, Art. no. mbe-18-05-262.
 
@@ -193,23 +186,23 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
 [54] K. W. Aiton and T. A. Driscoll, “An adaptive partition of unity method for multivariate Chebyshev polynomial approximations,” SIAM J. Sci. Comput., vol. 41, no. 5, pp. A3230–A3245.
 
 `2018`
- [53] T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. *J. Eng. Math.* 111 (1): 111–126.
+ [53] T. A. Driscoll, R. J. Braun, and J. K. Brosch. Simulation of parabolic flow on an eye-shaped domain with moving boundary. J. Eng. Math. 111 (1): 111–126.
 
- [52] K. Aiton, T. A. Driscoll. An adaptive partition of unity method for Chebyshev polynomial interpolation. *SIAM J. Sci. Comput.* 40 (1): A251–A265.
+ [52] K. Aiton, T. A. Driscoll. An adaptive partition of unity method for Chebyshev polynomial interpolation. SIAM J. Sci. Comput. 40 (1): A251–A265.
 
- [51] R. J. Braun, T. A. Driscoll, C. G. Begley, P. E. King-Smith, and J. I. Siddique. On tear film breakup (TBU): dynamics and imaging.* Math. Med. Biol.* 35 (2): 145–180.
+ [51] R. J. Braun, T. A. Driscoll, C. G. Begley, P. E. King-Smith, and J. I. Siddique. On tear film breakup (TBU): dynamics and imaging. Math. Med. Biol. 35 (2): 145–180.
 
 `2017`
-[50]  J. K. Brosch, Z. Wu, C. G. Begley, T. A. Driscoll, R. J. Braun. Blink characterization using curve fitting and clustering algorithms. *J. Modeling Ophthalmology* 1: 60–81.
+[50]  J. K. Brosch, Z. Wu, C. G. Begley, T. A. Driscoll, R. J. Braun. Blink characterization using curve fitting and clustering algorithms. J. Modeling Ophthalmology 1: 60–81.
 
 `2016`
- [49] T. A. Driscoll, E. Süli, and A. Townsend, eds., New Directions in Numerical Computation. *Notices of the Amer. Math. Soc.* 63 (4): 398–400, 2016.
+ [49] T. A. Driscoll, E. Süli, and A. Townsend, eds., New Directions in Numerical Computation. Notices of the Amer. Math. Soc. 63 (4): 398–400, 2016.
 
- [48] L. Li, R. J. Braun, T. A. Driscoll, W. D. Henshaw, J. W. Banks, and P. E. King-Smith, Computed tear film and osmolarity dynamics on an eye-shaped domain. *Math. Med. Biol.* 33 (2): 123–157. 
+ [48] L. Li, R. J. Braun, T. A. Driscoll, W. D. Henshaw, J. W. Banks, and P. E. King-Smith, Computed tear film and osmolarity dynamics on an eye-shaped domain. Math. Med. Biol. 33 (2): 123–157. 
 
- [47] T. A. Driscoll and N. Hale, Rectangular spectral collocation. *IMA J. Num. Analy.* 36 (1): 108–132.
+ [47] T. A. Driscoll and N. Hale, Rectangular spectral collocation. IMA J. Num. Analy. 36 (1): 108–132.
 
- [46] K. Maki, W. Henshaw, G. Barron, D. Chapp, R. J. Braun, T. A. Driscoll. A theoretical investigation of the influence of a blink on the tear film dynamics. *Invest. Ophthamology Visual Sci.* 57: 6173.
+ [46] K. Maki, W. Henshaw, G. Barron, D. Chapp, R. J. Braun, T. A. Driscoll. A theoretical investigation of the influence of a blink on the tear film dynamics. Invest. Ophthamology Visual Sci. 57: 6173.
 
  [45] L. Zhong, C. F. Ketelaar, R. J. Braun, T. A. Driscoll, P. E. King-Smith, C. G. Begley. Mathematical modeling of glob-driven tear film breakup. *Invest. Ophthamology Visual Sci.* 57: 6171.
 
@@ -336,7 +329,7 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 
 ### Refereed proceedings and posters
 `2022`
-[1] R. J. Braun, T. A. Driscoll et al., “Data and Analysis from Tear Breakup (TBU) in Normal Subjects,” Investigative Ophthalmology & Visual Science, vol. 63, no. 7, pp. 3950-A0230, Jun. 2022.
+R. J. Braun, T. A. Driscoll et al., “Data and Analysis from Tear Breakup (TBU) in Normal Subjects,” Investigative Ophthalmology & Visual Science, vol. 63, no. 7, pp. 3950-A0230, Jun. 2022.
 
 `2021`
 R. A. Luke et al., “Fitting Simplified Models to Machine Learning-Identified Tear Film Breakup,” in Investigative Ophthalmology & Visual Science, Jun. 2021, vol. 62, p. 1315.
@@ -385,6 +378,8 @@ Last updated: May 2013 -->
 
 ## Software
 
+* T. A. Driscoll. [https://github.com/complexvariables/RationalFunctionApproximation.jl](RationalFunctionApproximation.jl). Approximation by rational functions on complex domains in Julia. 
+* T. A. Driscoll. [https://github.com/complexvariables/ComplexRegions.jl](ComplexRegions.jl). Complex regions and paths in Julia. 
 * L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). (Major Driscoll contributions noted for the releases below.)
 	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
     * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
@@ -395,11 +390,13 @@ Last updated: May 2013 -->
 	* 2000: Object-oriented interface for polygons and maps.
 	* 1996: Inclusion of CRDT algorithm for elongated regions.
 	* 1994: Initial release.
-
-T. A. Driscoll. [https://github.com/complexvariables/ComplexRegions.jl](ComplexRegions.jl). Complex regions and paths in Julia. 
-
+* See also [https://github.com/tobydriscoll](my GitHub page).
 
 ## Presentations
+`2023` 
+"The AAA algorithm in the complex plane," Plenary speaker, Numerical Analysis in the 21st Century, University of Oxford.
+
+"Putting course notes online," University of Delaware.
 
 `2022`
 "Analysis of tear-film breakup using fluorescence video recordings," Colloquium at Appalachian State University, 2022.
