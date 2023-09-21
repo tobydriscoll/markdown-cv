@@ -163,7 +163,9 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
  
 ### Journal articles
 `2023`
-[62] T. A. Driscoll et al., “Fitting ODE models of tear film breakup,” Modeling and Artificial Intelligence in Ophthalmology, vol. 5, no. 1, pp. 1–36, Sep. 2023, doi: 10.35119/maio.v5i1.128.
+[63] T. A. Driscoll et al., “Fitting ODE models of tear film breakup,” Modeling and Artificial Intelligence in Ophthalmology, vol. 5, no. 1, pp. 1–36, Sep. 2023, doi: 10.35119/maio.v5i1.128.
+
+[62] M. J. Taranchuk, L. J. Cummings, T. A. Driscoll, and R. J. Braun, “Extensional flow of a free film of nematic liquid crystal with moderate elasticity,” Physics of Fluids, vol. 35, no. 6, p. 062113, Jun. 2023, doi: 10.1063/5.0151809.
 
 `2021`
 [61] R. J. Braun, R. A. Luke, T. A. Driscoll, and C. G. Begley, “Dynamics and mechanisms for tear breakup (TBU) on the ocular surface,” Mathematical Biosciences and Engineering, vol. 18, no. 5, Art. no. mbe-18-05-262.
