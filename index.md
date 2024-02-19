@@ -330,6 +330,9 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Refereed proceedings and posters
+`2023`
+R. J. Braun, T. Driscoll, C. Begley, P. Situ, A. Tichenor, and R. Luke, “Tear Breakup (TBU) Analysis with Fluorescence (FL) and Thermal (TH) imaging,” Investigative Ophthalmology & Visual Science, vol. 64, no. 8, pp. 186–186, Jun. 2023.
+
 `2022`
 R. J. Braun, T. A. Driscoll et al., “Data and Analysis from Tear Breakup (TBU) in Normal Subjects,” Investigative Ophthalmology & Visual Science, vol. 63, no. 7, pp. 3950-A0230, Jun. 2022.
 
@@ -398,7 +401,13 @@ Last updated: May 2013 -->
 `2023` 
 "The AAA algorithm in the complex plane," Plenary speaker, Numerical Analysis in the 21st Century, University of Oxford.
 
-"Putting course notes online," University of Delaware.
+"Data-driven discovery of dynamics," Delaware Data Science Symposium, University of Delaware.
+
+"Putting course notes online," Seminar, University of Delaware.
+
+"Data-driven modeling and simulation of the human tear film," Colloquium, Michigan Tech.
+
+"AAA in the complex plane," Complex Analysis Video Seminar (CAvid)
 
 `2022`
 "Analysis of tear-film breakup using fluorescence video recordings," Colloquium at Appalachian State University, 2022.
