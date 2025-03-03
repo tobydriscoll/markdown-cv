@@ -413,8 +413,13 @@ Last updated: May 2013 -->
 * See also [https://github.com/tobydriscoll](my GitHub page).
 
 ## Presentations
+
+`2024`
+ 
+"Data-driven modeling and simulation of the human tear film." Colloquium at Temple University, Oct. 2024.
+
 `2023` 
-"The AAA algorithm in the complex plane," Plenary speaker, Numerical Analysis in the 21st Century, University of Oxford.
+"The AAA algorithm in the complex plane." Plenary speaker, Numerical Analysis in the 21st Century, University of Oxford.
 
 "Data-driven discovery of dynamics," Delaware Data Science Symposium, University of Delaware.
 
