@@ -82,7 +82,7 @@ Braddock Scholar (Penn State undergraduate study)
 
 ## Grants
 
-`2019-2022`
+`2019-2023`
 R. J. Braun (PI), T. A. Driscoll (co-PI). Models for Tear Film Structure, Dynamics and Parameter Identification. NSF DMS-1909846, $375,000.
 
 `2014–2017`
@@ -162,6 +162,12 @@ T. A. Driscoll and B. Fornberg. Padé-based interpretation
  T. A. Driscoll and L. N. Trefethen. Numerical construction of conformal maps. Appendix to *Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics*, 3rd edition, by E. D. Saff and A. D. Snider, Prentice Hall.
  
 ### Journal articles
+
+`2024`
+[65] Q. Chen, T. A. Driscoll, and R. J. Braun, "Evaporation-driven tear film thinning and breakup in two space dimensions," Journal of Engineering Math, vol. 149, article no. 5, 2024. DOI: 10.1007/s10665-024-10407-6. 
+
+[64] T. A. Driscoll, Y. Nakatsukasa, and L. N. Trefethen, "AAA rational approximation on a continuum," SIAM Journal on Scientific Computing, vol. 46, issue 2. DOI: 10.1137/23m1570508.
+
 `2023`
 [63] T. A. Driscoll et al., “Fitting ODE models of tear film breakup,” Modeling and Artificial Intelligence in Ophthalmology, vol. 5, no. 1, pp. 1–36, Sep. 2023, doi: 10.35119/maio.v5i1.128.
 
@@ -330,6 +336,15 @@ Heat transfer and tear film dynamics over multiple blink cycles.
 <!--  A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Refereed proceedings and posters
+
+`2024`
+
+T. A. Driscoll, A. A. Tichenor, P. Situ, R. J. Braun, and C. G. Begley, "Optimized Models of Tear Breakup (TBU) Mechanisms in Dry-Eye (DE) and Non-DE Subjects," Investigative Ophthalmology & Visual Science 65 (7), 6559-6559, May 2024.
+
+P. Situ, A. A. Tichenor, T. A. Driscoll, C. G. Begley, and R. J. Braun, "Neurosensory function changes induced by tear film instability (TFI)-related stress in dry eye: A pilot study," Investigative Ophthalmology & Visual Science 65 (7), 6566-6566, May 2024.
+
+A. A. Tichenor, P. Situ, T. A. Driscoll, C. G. Begley, and R. J. Braun, "Linking TBU mechanisms and the neurosensory response in dry eye subjects," Investigative Ophthalmology & Visual Science 65 (7), 6572-6572, May 2024.
+
 `2023`
 R. J. Braun, T. Driscoll, C. Begley, P. Situ, A. Tichenor, and R. Luke, “Tear Breakup (TBU) Analysis with Fluorescence (FL) and Thermal (TH) imaging,” Investigative Ophthalmology & Visual Science, vol. 64, no. 8, pp. 186–186, Jun. 2023.
 
